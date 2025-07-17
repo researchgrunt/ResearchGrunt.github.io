@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: "Welcome to My Homepage!"
+layout: archive
+title: "Home"
+permalink: /Home/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 ---
 
