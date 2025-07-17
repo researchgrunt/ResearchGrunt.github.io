@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-**2023**
+**2025**
 
 
-[Domain-Specific Risk Minimization for Out-of-Distribution Generalization](https://arxiv.org/abs/2208.08661) \|  **SIGKDD, 2023** \| [[Code]](https://github.com/yfzhang114/AdaNPC) \|
+* [An Adaptive Federated Domain Generalization Framework for Consumer Electronics Manufacturing Equipment Cross-Factory Fault Detection](https://ieeexplore.ieee.org/abstract/document/10847739) \|  **IEEE Transactions on Consumer Electronics，2025** \| 
+_**Haodong Li**, Xingwei Wang, Ying Li, Bo Yi, Peng Cao, Min Huang, Keqin Li_
