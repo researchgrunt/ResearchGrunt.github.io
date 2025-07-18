@@ -30,8 +30,8 @@ main:
   - title: "Activities"
     url: /Activities/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
