@@ -25,19 +25,17 @@ Computers in Industry,2025.
 **Haodong Li**, Xingwei Wang, Peng Cao, Ying Li, Bo Yi, Min Huang.  
 Advanced Engineering Informatics,2024.
 
-* Multi-task spatio-temporal augmented net for industry equipment remaining useful life prediction \[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1474034623000265)\]
-**Haodong Li**, Peng Cao, Xingwei Wang, Bo Yi, Min Huang, Qiuye Sun, Yanfeng Zhang.
+* Multi-task spatio-temporal augmented net for industry equipment remaining useful life prediction \[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1474034623000265)\]  
+**Haodong Li**, Peng Cao, Xingwei Wang, Bo Yi, Min Huang, Qiuye Sun, Yanfeng Zhang.  
 Advanced Engineering Informatics,2023.
 
-* Application of a flat variational modal decomposition algorithm in fault diagnosis of rolling bearings \[[PDF](https://journals.sagepub.com/doi/full/10.1177/1461348419846730)\]
-**Haodong Li**, Ying Xu, Dong An, Lixiu Zhang, Songhua Li, Huaitao Shi.
+* Application of a flat variational modal decomposition algorithm in fault diagnosis of rolling bearings \[[PDF](https://journals.sagepub.com/doi/full/10.1177/1461348419846730)\]  
+**Haodong Li**, Ying Xu, Dong An, Lixiu Zhang, Songhua Li, Huaitao Shi.  
 Journal of Low Frequency Noise, Vibration and Active Control,2020.
 
-* Compensation of hysteresis on piezoelectric actuators based on tripartite PI model \[[PDF](https://www.mdpi.com/2072-666X/9/2/44)\]
-Dong An, **Haodong Li**, Ying Xu, Lixiu Zhang.
-Micromachines,2018
-
-
+* Compensation of hysteresis on piezoelectric actuators based on tripartite PI model \[[PDF](https://www.mdpi.com/2072-666X/9/2/44)\]  
+Dong An, **Haodong Li**, Ying Xu, Lixiu Zhang.  
+Micromachines,2018.
 
 ## Book Chapter
 -----
